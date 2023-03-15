@@ -1,0 +1,16 @@
+{
+    "Type": "nap::ModuleInfo",
+    "mID": "ModuleInfo",
+    "RequiredModules": [
+        "napscene"
+    ],
+    "WindowsDllSearchPaths": [],
+    "LibrarySearchPaths": {
+        "Linux": [
+            "{ROOT}/thirdparty/wiringpi/lib"
+        ],
+        "macOS": [],
+        "Windows": []
+    },
+    "DemoApp": "pipins"
+}

@@ -1,0 +1,18 @@
+{
+    "Type": "nap::ProjectInfo",
+    "mID": "ProjectInfo",
+    "Title": "PiPins",
+    "Version": "1.0.0",
+    "RequiredModules": [
+        "napapp",
+        "napscene",
+        "napcameracontrol",
+        "napparametergui",
+        "nappipins",
+		"napsequence",
+		"napsequencegui"
+    ],
+    "Data": "data/default.json",
+    "ServiceConfig": "",
+    "PathMapping": "cache/path_mapping.json"
+}
